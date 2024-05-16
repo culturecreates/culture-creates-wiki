@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T22:07:53.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="FHaD5oYpdLdUc6NT9L5T" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T22:12:20.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="PBEiqLBRzAf1OewAQ7s3" version="24.4.3" type="github">
   <diagram name="Page-1" id="66U-YrVXCCfPf5cJQVHg">
-    <mxGraphModel dx="952" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="Y1XdUBZsQn69NxMOFHps-23" value="DNS Setup on AWS Route 53" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="180" y="23" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KxDQxyVau35nxktcpWBa-1" value="&lt;a href=&quot;https://itnext.io/how-configure-a-wordpress-site-with-lightsail-using-cloudfront-and-route-53-c52ce5719b82&quot;&gt;https://itnext.io/how-configure-a-wordpress-site-with-lightsail-using-cloudfront-and-route-53-c52ce5719b82&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KxDQxyVau35nxktcpWBa-1" value="&lt;a href=&quot;https://itnext.io/how-configure-a-wordpress-site-with-lightsail-using-cloudfront-and-route-53-c52ce5719b82&quot;&gt;https://itnext.io/how-configure-a-wordpress-site-with-lightsail-using-cloudfront-and-route-53-c52ce5719b82&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="670" width="590" height="30" as="geometry" />
         </mxCell>
       </root>
